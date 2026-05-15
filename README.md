@@ -1,1 +1,1 @@
-This repo contains the practice code for netflix clone
+This repo contains the practice code for netflix clone.
